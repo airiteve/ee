@@ -1,3 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6500000,AVERAGE-BANDWIDTH=6300005,CODECS="mp4a.40.5,avc1.42801e"
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://iptvtree.net:8080/F14995/a84c0963/162138
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
 http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/162138.ts
