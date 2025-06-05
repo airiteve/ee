@@ -329,6 +329,27 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 ==============================================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/sports.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Olahraga Lokal",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/sports.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Olahraga Lokal",ESPN 2 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp2-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-fhd-avc/NL_000108_019561.mpd?p=web
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/sports.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Olahraga Lokal",ESPN 4 NE
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp2-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-fhd-avc/NL_000110_019562.mpd?p=web
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/sports.png" tvg-name="SPORTSTARS 1" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/sportstars1.png" group-title="Olahraga Lokal",SPORTSTARS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
