@@ -25,9 +25,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/fREvh-HL2oHf85DWNPkaQECsg68=/500x500/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4727274/original/086383600_1706267379-Timnas_Indonesia_-_Ilustrasi_Logo_TimnasDay_copy.jpg" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day",INDOSIAR (bola)
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
-
 ----
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
