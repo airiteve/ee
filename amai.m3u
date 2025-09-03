@@ -118,9 +118,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 
 =================================================== PREMIER LAGUE ====================================================
-grp-logo = https://images.seeklogo.com/logo-png/29/2/premier-league-logo-png_seeklogo-296224.png
+grp-logo = https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png
 
-#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/29/2/premier-league-logo-png_seeklogo-296224.png" group-title="Premier League" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
+#EXTINF:-1 group-logo="https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png" group-title="Premier League" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -198,7 +198,7 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmHNXc9QmB1MkL5A7yh0efEuoOlG1_TTsDl-Ko8hDs-PgcExwDY9pq0Vsqdw4OKDa00DapgYLubStqu-ZFsJc1GhwhTEY_DKyl6zhtOE56-Cn9Ji-Di3zS_gL4LtT57jMog3wxAhV-5zvPx3-Kp-fXyKxJMi3at9VSqj690kwEdVe6nr3_PZBhx-Bm6i23/s700/SONY%20TEN%205%20HD.png" group-title="Liga Bola Dunia", SONY TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF:-1 tvg-id="beINSports" group-title="Liga Bola Dunia" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein1.png", beIN Sports 1 
+#EXTINF:-1 tvg-id="beINSports" group-title="Liga Bola Dunia" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
@@ -330,7 +330,7 @@ https://jmp2.uk/stvp-CABA8000043F
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Liga Bola Dunia", BEIN SPORTS 1 ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Liga Bola Dunia", BEIN SPORTS ENG 1
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -338,7 +338,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="Liga Bola Dunia", BEIN SPORTS 2 ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="Liga Bola Dunia", BEIN SPORTS ENG 2
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -346,7 +346,7 @@ https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbn
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="Liga Bola Dunia", BEIN SPORTS 3 ENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="Liga Bola Dunia", BEIN SPORTS ENG 3
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="Liga Bola Dunia", SKY SPORTS BUNDESLIGA
@@ -401,7 +401,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-logo="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day;Sports Lokal",INDOSIAR (bola)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day;Sports Lokal",INDOSIAR (bola)
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
@@ -409,10 +409,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 grp-logo = https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png
 
 =================================================== BALAPAN GP ======================================================
-grp logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
-
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Balapan GP",Sky Sport MotoGP
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssmgp.m3u8
+grp-logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" tvg-id="" tvg-name="" group-title="Sports Lokal;Balapan GP",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -425,6 +422,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 group-logo="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Balapan GP",Sky Sport MotoGP
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssmgp.m3u8
+
 
 =================================================== KIDS ======================================================
 grp logo = https://png.pngtree.com/png-vector/20250611/ourmid/pngtree-boy-watching-television-illustration-png-image_16520105.png
