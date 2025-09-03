@@ -411,6 +411,13 @@ grp-logo = https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-bal
 =================================================== BALAPAN GP ======================================================
 grp-logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
 
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Balapan GP",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" tvg-id="" tvg-name="" group-title="Sports Lokal;Balapan GP",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
