@@ -12,19 +12,6 @@
 
 
 
-
-
-
-=================================================== PREMIER LAGUE ====================================================
-
-=================================================== LIGA BOLA EROPA ====================================================
-
-=================================================== SPORTS LOKAL ======================================================
-
-=================================================== SPORTS DUNIA ======================================================
-
-=================================================== BALAPAN GP ======================================================
-
 =================================================== TV NASIONAL ======================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/siarantv.png" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV Nasional",SCTV
@@ -36,7 +23,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/fREvh-HL2oHf85DWNPkaQECsg68=/500x500/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4727274/original/086383600_1706267379-Timnas_Indonesia_-_Ilustrasi_Logo_TimnasDay_copy.jpg" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day",INDOSIAR (bola)
+#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/fREvh-HL2oHf85DWNPkaQECsg68=/500x500/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4727274/original/086383600_1706267379-Timnas_Indonesia_-_Ilustrasi_Logo_TimnasDay_copy.jpg" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day;Sports Lokal",INDOSIAR (bola)
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 ----
@@ -73,8 +60,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w951314700_b744100_sle
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id 
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
-
 
 
 
@@ -129,6 +114,28 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w209872312_b2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/1 01.0
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
+
+
+=================================================== PREMIER LAGUE ====================================================
+
+=================================================== LIGA BOLA EROPA ====================================================
+
+=================================================== SPORTS LOKAL ======================================================
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Sports Lokal;Timnas Day",Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
+
+----
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+=================================================== SPORTS DUNIA ======================================================
+
+=================================================== BALAPAN GP ======================================================
 
 =================================================== KIDS ======================================================
 
