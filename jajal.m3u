@@ -409,7 +409,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 grp-logo = https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png
 
 =================================================== BALAPAN GP ======================================================
-grp logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
+grp-logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" tvg-id="" tvg-name="" group-title="Sports Lokal;Balapan GP",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
