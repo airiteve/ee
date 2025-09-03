@@ -14,7 +14,9 @@
 
 =================================================== TV NASIONAL ======================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Acil2125/ee/main/siarantv.png" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV Nasional",SCTV
+group-logo="https://png.pngtree.com/element_our/sm/20180516/sm_5afbfa01e121d.png"
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/element_our/sm/20180516/sm_5afbfa01e121d.png" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="TV Nasional",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
@@ -119,10 +121,38 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 
 =================================================== PREMIER LAGUE ====================================================
+grp-logo = https://images.seeklogo.com/logo-png/48/2/premier-league-logo-png_seeklogo-481554.png
+
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/48/2/premier-league-logo-png_seeklogo-481554.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="PREMIER LAGUE",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
 
 =================================================== LIGA BOLA EROPA ====================================================
+grp logo = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnzmOQXolLIUTaB4722dMH5uQE4xom12ZSedR44XyrazXB2okwOKs3RZC_GUlu5pVaLE&usqp=CAU
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnzmOQXolLIUTaB4722dMH5uQE4xom12ZSedR44XyrazXB2okwOKs3RZC_GUlu5pVaLE&usqp=CAU" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="bola eropa",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
+================================================= TIMNAS DAY ================================================
+GRUP LOGO = https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Timnas Day",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
 
 =================================================== SPORTS LOKAL ======================================================
+grp-logo = https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Sports Lokal;Timnas Day",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -136,10 +166,35 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 =================================================== SPORTS DUNIA ======================================================
+grp-logo = https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sports-balls-3d-illustration-png-image_9235520.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="SPORTS DUNIA",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
 
 =================================================== BALAPAN GP ======================================================
+grp logo = https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-grand-prix-png-image_6874483.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Balapan GP",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
 
 =================================================== KIDS ======================================================
+grp logo = https://png.pngtree.com/png-vector/20250611/ourmid/pngtree-boy-watching-television-illustration-png-image_16520105.png
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20250611/ourmid/pngtree-boy-watching-television-illustration-png-image_16520105.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Kids",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
 
 =================================================== HIBURAN ======================================================
 
@@ -150,4 +205,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 =================================================== COOKING ======================================================
 
 =================================================== MR BEAN ======================================================
+https://e7.pngegg.com/pngimages/493/479/png-clipart-mr-bean-illustration-youtube-coloring-book-character-cartoon-mr-bean-television-child-thumbnail.png
+
+#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/493/479/png-clipart-mr-bean-illustration-youtube-coloring-book-character-cartoon-mr-bean-television-child-thumbnail.png" tvg-name="SPORTSTARS 1" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png.png" group-title="Mr Bean",ESPN 1 NE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+
 
