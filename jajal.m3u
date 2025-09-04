@@ -9,7 +9,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" tvg-shift=0 m3uautoload=13
 
 
-
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/53/2/bri-liga-1-logo-png_seeklogo-534135.png" group-title="BRI Liga 1 Indonesia"
 
 
 =================================================== TV NASIONAL ======================================================
@@ -137,43 +137,53 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 =================================================== PREMIER LAGUE ====================================================
 grp-logo = https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png
 
-#EXTINF:-1 group-logo="https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png" group-title="Premier League" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
+#EXTINF:-1 group-logo="https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png" group-title="Liga Inggris EPL" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Premier League", FUBO SPORTS 1
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Liga Inggris EPL", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Premier League", FUBO SPORTS 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Liga Inggris EPL", FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="Premier League", Now Sports 1 PL
+#EXTINF:0 group-title="Liga Inggris EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqIgwi6AmcVsXnX6PgQypD0wj0_xK6UwqZw&usqp=CAU",DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#EXTINF:0 group-title="Liga Inggris EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY21DOtOCObcSBrQf_-9WoZ9gYcbFzPEyrsA&usqp=CAU",DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="Liga Inggris EPL", Now Sports 1 PL
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nowspl1.m3u8
 
-#EXTINF:-1 group-title="Premier League" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
+#EXTINF:-1 group-title="Liga Inggris EPL" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport - Peacock
+#EXTINF:-1 group-title="Liga Inggris EPL" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport - Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.seekpng.com/png/small/439-4391498_nbc-universo-hd-launches-in-comcast-xfinity-western.png",Universal
+#EXTINF:-1 group-title="Liga Inggris EPL" tvg-logo="https://www.seekpng.com/png/small/439-4391498_nbc-universo-hd-launches-in-comcast-xfinity-western.png",Universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
@@ -181,7 +191,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Premier League",Astro Premier League
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Liga Inggris EPL",Astro Premier League
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnzmOQXolLIUTaB4722dMH5uQE4xom12ZSedR44XyrazXB2okwOKs3RZC_GUlu5pVaLE&usqp=CAU" tvg-logo="https://i.pinimg.com/236x/a8/9e/c5/a89ec5a7758e53c05c242d442b4daf09.jpg" group-title="Premier League;Liga Bola Dunia",PREMIER 1
@@ -200,32 +210,32 @@ http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 1 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 1 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016907&extension=ts&play_token=IUyVceMkpw
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 2 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 2 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016908&extension=ts&play_token=TNy7Mwz8jF
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 3 Connect 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 3 Connect 
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016909&extension=ts&play_token=sId510TUhY
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 4 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 4 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016910&extension=ts&play_token=a3jMH7tRoz
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 5 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 5 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016911&extension=ts&play_token=LY7EIy8D13
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 6 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 6 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016912&extension=ts&play_token=KxiIIDjeEh
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 7 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 7 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016913&extension=ts&play_token=udW29GNpdU
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 8 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 8 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016914&extension=ts&play_token=j4VindxtP8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Premier League",beIN Sports HD 9 Connect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",beIN Sports HD 9 Connect
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016915&extension=ts&play_token=cuIMIiu0u7
 
 =================================================== LIGA BOLA EROPA ====================================================
@@ -414,12 +424,21 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 ================================================= TIMNAS DAY ================================================
 GRUP LOGO = https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png" tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="Timnas Day", RCTI+ LIVE ONLY TIMNAS 2
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png" tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="Timnas Day;BRI Liga 1 Indonesia", RCTI+ LIVE ONLY TIMNAS 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 -----
 https://pastebin.com/raw/0a96dpHJ
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+
+================================================ BRI Liga 1 Indonesia =================================================
+
+#EXTINF:-1 group-title="BRI Liga 1 Indonesia;Sports Lokal" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 =================================================== SPORTS LOKAL ======================================================
@@ -449,7 +468,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day;Sports Lokal",INDOSIAR (bola)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="TV Nasional;Timnas Day;Sports Lokal;BRI Liga 1 Indonesia",INDOSIAR (bola)
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
