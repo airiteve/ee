@@ -449,7 +449,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 ================================================ BRI Liga 1 Indonesia =================================================
 
-#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/53/2/bri-liga-1-logo-png_seeklogo-534135.png" group-title="BRI Liga 1 Indonesia;Sports Lokal" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
+#EXTINF:-1 group-logo="https://sortitoutsi.b-cdn.net/uploads/comp/41004312.png" group-title="BRI Liga 1 Indonesia;Sports Lokal" tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -463,7 +463,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 ================================================= TIMNAS DAY ================================================
 GRUP LOGO = https://png.pngtree.com/png-clipart/20230628/ourmid/pngtree-illustration-of-the-indonesian-national-team-football-with-garuda-wings-png-image_7333493.png
 
-#EXTINF:-1 group-title="Timnas Day;BRI Liga 1 Indonesia", RCTI+ LIVE ONLY TIMNAS 2
+#EXTINF:-1 group-title="Timnas Day;BRI Liga 1 Indonesia" tvg-logo="https://images.seeklogo.com/logo-png/30/1/rcti-logo-png_seeklogo-306275.png", RCTI+ LIVE ONLY TIMNAS 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 -----
