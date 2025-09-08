@@ -537,23 +537,21 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-title="Timnas Day" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19497&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="Timnas Day", INA VS LBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdntl=exp=1757349079~acl=%2fstream%2f19497%2ffile%2f*~id=187975942~data=hdntl~hmac=233ce08e649a84fbb38c2fd4747dce6b71642b22be82644c1ab2d67e4e03fe45
 
-#EXTINF:-1 group-title="Timnas Day" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
-
-#EXTINF:-1 group-title="Timnas Day" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="Timnas Day", INA VS LBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19497&type=dash
 
 ================================================ BRI Liga 1 Indonesia =================================================
 
