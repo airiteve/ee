@@ -280,6 +280,15 @@ https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64
 #EXTINF:-1 tvg-id="" tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Persiana-Sport-Logo-in-bioact.r.png" group-title="Liga Inggris EPL",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Liga Inggris EPL",SkySports Premier League
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Liga Inggris EPL",SkySports Football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Liga Inggris EPL",SkySports Mix
+https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
+
 =================================================== LIGA BOLA EROPA ====================================================
 grp logo = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnzmOQXolLIUTaB4722dMH5uQE4xom12ZSedR44XyrazXB2okwOKs3RZC_GUlu5pVaLE&usqp=CAU
 
